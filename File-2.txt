@@ -1,2 +1,2 @@
 This is my second file.
-I am making changes in the local coy for file-2.
+I am making changes in the local copy for file-2.
